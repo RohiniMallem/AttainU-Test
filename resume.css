@@ -1,0 +1,10 @@
+.list{
+    border-left-color: brown;
+    border-left-width: 2em;
+    background-color: burlywood;
+    list-style: none;
+}
+.background{
+    background-color: DodgerBlue;
+    color: white;
+}
